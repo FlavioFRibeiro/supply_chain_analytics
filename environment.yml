@@ -1,0 +1,11 @@
+name: supply_chain_analytics
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pandas=2.1.1
+  - numpy=1.26.4
+  - matplotlib=3.5.2
+  - seaborn=0.11.2
+  - pyspark=3.5.0
+  - pip
